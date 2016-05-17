@@ -6,7 +6,7 @@ setup of dictionary on ubuntu
 
 星际字典安装及使用：
 
-1.安装
+1. 安装
 
     1. apt-get install stardict
     2. 下载字典库包，地址是
@@ -19,7 +19,7 @@ setup of dictionary on ubuntu
     sudo tar jxf WyabdcRealPeopleTTS.tar.bz2 -C /usr/share/
 2. 比较不错的字库：
 
-    stardict-21shijishuangxiangcidian-2.4.2.tar.bz2
-    stardict-kdic-computer-gb-2.4.2.tar.bz2
-    stardict-xdict-ce-gb-2.4.2.tar.bz2
-    stardict-xdict-ec-gb-2.4.2.tar.bz2
+    1. stardict-21shijishuangxiangcidian-2.4.2.tar.bz2
+    2. stardict-kdic-computer-gb-2.4.2.tar.bz2
+    3. stardict-xdict-ce-gb-2.4.2.tar.bz2
+    4. stardict-xdict-ec-gb-2.4.2.tar.bz2
