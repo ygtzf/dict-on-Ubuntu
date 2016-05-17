@@ -4,7 +4,8 @@ setup of dictionary on ubuntu
 
 #Ubuntu下字典的使用
 
-*星际字典安装及使用：
+星际字典安装及使用：
+
 1.安装
 
     1. apt-get install stardict
